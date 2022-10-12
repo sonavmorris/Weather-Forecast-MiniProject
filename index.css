@@ -1,0 +1,40 @@
+*{
+    margin: 100px;
+    padding:0;
+    background-color:rgb(159, 225, 108);
+    align-items: center;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    height:100%;
+    margin: 0;
+}
+.input{
+    text-align: center;
+    margin:100px 0;
+}
+input[type="text"]{
+    height:50px;
+    width:600px;
+    background-color: rgba(113, 233, 233, 0.621);
+    font-weight: bold;
+    border-radius: 2px;
+    padding: 10px 10px;
+}
+input[type="submit"]{
+    height:50px;
+    width:100px;
+    margin-left: 500px;
+    align-items: center;
+    background-color: rgba(78, 91, 236, 0.511);
+    font-weight: bold;}
+    
+.display{
+text-align:center;
+    }
+
+
